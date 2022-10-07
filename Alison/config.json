@@ -1,0 +1,5 @@
+{
+	"clientId":"", //ID for Bot / Client (You get this from your "Application" on Discord)
+	"token": "", //When you click 'Reset Token' this is the value
+	"holeID": ""//Server ID for "HoleID"
+}
